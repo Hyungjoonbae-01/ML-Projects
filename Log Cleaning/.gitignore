@@ -1,0 +1,5 @@
+*.log
+access.log
+cleaned_access.log
+error.log
+*.out
